@@ -1,4 +1,4 @@
 # zoom_686_mirror
-Currently Zoom's x86_32 Linux release is failing to load with `error 302`.
+Currently Zoom's [x86_32 Linux release](https://zoom.us/client/latest/zoom_i686.tar.xz) is failing to load with `error 302`.
 
 This repository hosts `zoom_i686.tar.xz`, to allow Pi-Apps users to continue installing Zoom on their Raspberry Pies.
